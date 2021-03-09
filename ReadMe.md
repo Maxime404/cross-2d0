@@ -88,9 +88,9 @@ Finally he can of course `create`, `remove` or `set to complete` a new task.
 
 Now that you have all server features, ... well just develop it on your mobile application using the style you want :)
 
-- Example
+A simple example of what we expect :
 
-[](./sample.gif)
+[ok](./sample.gif)
 
 ### = Knowledge
 
