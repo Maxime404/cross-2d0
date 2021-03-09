@@ -90,7 +90,7 @@ Now that you have all server features, ... well just develop it on your mobile a
 
 A simple example of what we expect :
 
-[ok](./sample.gif)
+[![ok](./sample.gif)]
 
 ### = Knowledge
 
