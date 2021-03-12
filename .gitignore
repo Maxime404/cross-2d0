@@ -6,6 +6,7 @@
 # Logs
 logs
 *.log
+*/*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -43,6 +44,7 @@ bower_components
 build/Release
 
 # Dependency directories
+*/node_modules/
 node_modules/
 jspm_packages/
 
@@ -69,6 +71,7 @@ typings/
 
 # dotenv environment variables file
 .env
+*/.env
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)

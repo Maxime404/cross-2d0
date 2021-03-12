@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "glutenApp-front",
+    "slug": "glutenApp-front",
+    "entryPoint": "./src/App.js",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "web": {
+      "build": {
+        "babel": {
+          "include": ["@codler/react-native-keyboard-aware-scroll-view"]
+        }
+      }
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "accessKeyId": "AKIA2QSCBNUKHINSTBNV",
+      "secretAccessKey": "YnlAmeECpyzIewpUbhs3T3QRHr2YH51JdCrh"
+    }
+  }
+}
