@@ -46,7 +46,7 @@ You are going to build a full application (server + client) that will solve this
 
 ### = Prelude
 
-You **MUST** create a full Node.js server with a database connection using [**Prisma**](https://www.prisma.io) ;<br />
+You **MUST** create a full Node.js or whatever server with a database connection using [**Prisma**](https://www.prisma.io) in node or anything else with other language ;<br />
 We are going to have 2 models : 
 
 - User
