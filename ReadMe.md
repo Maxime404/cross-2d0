@@ -31,7 +31,7 @@ Hi, here are some rules to carry out this project;
 
 > Don't forget, there is no useless question :-)
 
-You **MUST** return the project on Thursday March, 18 at 12:00 pm by sending an MP on Teams with the link of your github repo.<br />
+You **MUST** return the project on Friday March, 12 at 15:00 pm by sending an MP on Teams with the link of your github repo.<br />
 
 Your repository **MUST** contain the totality of your source files, but no useless files (node_modules, temp files, log files,...).
 
